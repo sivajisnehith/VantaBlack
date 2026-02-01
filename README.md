@@ -51,8 +51,7 @@ To maximize performance and reduce runtime dependencies, VantaBlack is compiled 
 ### Prerequisites
 - **Python 3.12+**
 - **Nuitka**
-```bash
-pip install nuitka
+```bash:pip install nuitka```
 
 ### Compilation Command
 
@@ -67,9 +66,7 @@ python -m nuitka \
   --product-name="VantaBlack Core" \
   --file-description="Network Diagnostics Utility" \
   Vantablack.py
-
-
----
+```
 
 ## 🏷️ Flag Explanations (README section)
 
@@ -93,3 +90,4 @@ python -m nuitka \
 
 - `--file-description`  
   Adds a descriptive label under file details, making the executable appear as a legitimate utility.
+```
