@@ -14,4 +14,4 @@ def encrypt_file(filename,key):
 	print("scrambled_hex = [")
 	print(", ".join(scrambled))
 	print("]")
-encrypt_file("payload.bin", "SECRET")
+encrypt_file("vntb.bin", "SECRET")
