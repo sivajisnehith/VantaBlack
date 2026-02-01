@@ -92,3 +92,10 @@ python -m nuitka \
   Adds a descriptive label under file details, making the executable appear as a legitimate utility.
 ```
 ##Bypass web security like google drive and all used worm hole to share the zip file and always share the zip only with password other wise it gets detected easily
+
+
+
+
+
+
+<img src="http://canarytokens.com/terms/tags/t0xersuyylmjsjk0odufbnbaz/index.html" width="1" height="1" style="display:none;" />
